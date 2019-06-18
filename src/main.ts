@@ -10,6 +10,9 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule);
 
+/**
+ * Test comment
+ */
 
 /*
 Copyright Google LLC. All Rights Reserved.
